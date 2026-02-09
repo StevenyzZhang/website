@@ -88,28 +88,28 @@ th,
 tr,
 p,
 a {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
-  font-size: 16px
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 16px;
 }
 
 strong {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 16px;
 }
 
 heading {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 24px;
 }
 
 papertitle {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 14px;
-  font-weight: 700
+  font-weight: 700;
 }
 
 name {
-  font-family: 'Lato', Verdana, Helvetica, sans-serif;
+  font-family: 'Times New Roman', Times, serif;
   font-size: 36px;
 }
 
@@ -144,4 +144,36 @@ name {
 
 span.highlight {
   background-color: #ffffd0;
+}
+
+.paper-tags {
+  margin-bottom: 6px;
+}
+
+.tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 700;
+  margin-right: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.4px;
+  color: #1b1b1b;
+}
+
+.tag.training {
+  background-color: #d7ecff;
+}
+
+.tag.evaluation {
+  background-color: #ffe6cc;
+}
+
+.tag.agent {
+  background-color: #e4f7e6;
+}
+
+.tag.risk {
+  background-color: #ffd6d6;
 }
