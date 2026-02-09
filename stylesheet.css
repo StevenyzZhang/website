@@ -89,22 +89,22 @@ tr,
 p,
 a {
   font-family: 'Times New Roman', Times, serif;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 strong {
   font-family: 'Times New Roman', Times, serif;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 heading {
   font-family: 'Times New Roman', Times, serif;
-  font-size: 24px;
+  font-size: 28px;
 }
 
 papertitle {
   font-family: 'Times New Roman', Times, serif;
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 700;
 }
 
@@ -118,7 +118,7 @@ name {
 .publications a,
 .publications strong,
 .publications em {
-  font-size: 14px;
+  font-size: 20px;
 }
 
 .one {
@@ -154,7 +154,7 @@ span.highlight {
   display: inline-block;
   padding: 2px 8px;
   border-radius: 12px;
-  font-size: 12px;
+  font-size: 16px;
   font-weight: 700;
   margin-right: 6px;
   text-transform: uppercase;
