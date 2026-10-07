@@ -177,3 +177,7 @@ span.highlight {
 .tag.risk {
   background-color: #ffd6d6;
 }
+
+.tag.interp {
+  background-color: #eadcff;
+}
